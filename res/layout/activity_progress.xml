@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" 
+    android:background="@drawable/background4">
+    
+    
+<!--     <LinearLayout
+        android:id="@+id/progress_calories_total"
+        android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="7dp"
+	    android:paddingRight="7dp"
+	    android:orientation="horizontal" >
+	     
+		<TextView
+		  android:id="@+id/totalCalories"
+		  android:layout_width="wrap_content"
+		  android:layout_height="wrap_content"
+		  android:layout_marginTop="10dp"
+		  android:layout_marginBottom="10dp"
+		  android:text="@string/total_calories"
+		  android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+		<TextView
+		    android:id="@+id/totalCaloriesInput"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:ems="10" />
+		
+		<TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unit_liz"
+	        android:layout_marginTop="10dp"
+	     	android:layout_marginBottom="10dp"
+	        android:layout_marginRight="3dp"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+		
+	</LinearLayout> -->
+
+    
+	<LinearLayout
+	   	android:id="@+id/progress_daily_target"
+	   	android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:layout_gravity="center"
+	   	android:paddingLeft="7dp"
+	   	android:paddingRight="7dp"
+	   	android:orientation="horizontal" >
+	
+		<TextView
+		  android:id="@+id/dailyTarget"
+		  android:layout_width="wrap_content"
+		  android:layout_height="wrap_content"
+		  android:layout_marginTop="10dp"
+		  android:layout_marginBottom="10dp"
+		  android:layout_marginRight="30dp"
+		  android:text="@string/daily_target"
+		  android:textColor="#0000FF"
+		  android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+		<TextView
+		  android:id="@+id/dailyTargetValue"
+		  android:layout_width="wrap_content"
+		  android:layout_height="wrap_content"
+		  android:layout_marginTop="10dp"
+		  android:layout_marginBottom="10dp"
+		  android:layout_marginRight="30dp"
+		  android:text="@string/daily_calories_target"
+		  android:textColor="#0000FF"
+		  android:textAppearance="?android:attr/textAppearanceLarge" />
+		
+<!-- 		<EditText
+		    android:id="@+id/dailyTargetInput"
+		    android:layout_width="100dp"
+		    android:layout_height="wrap_content"
+		    android:ems="10"
+		    android:inputType="number" 
+		   	android:maxLength="6"
+	        android:maxWidth="100dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"/> -->
+		
+		<TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unit_liz"
+	        android:layout_marginTop="10dp"
+	     	android:layout_marginBottom="10dp"
+	        android:layout_marginRight="3dp"
+	        android:textColor="#0000FF"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+	</LinearLayout>
+	
+	
+	<LinearLayout
+	   	android:id="@+id/today_calories"
+	   	android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:layout_gravity="center"
+	   	android:paddingLeft="7dp"
+	   	android:paddingRight="7dp"
+	   	android:orientation="horizontal" >
+		
+	    <TextView
+	       android:id="@+id/todayCalories"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_marginTop="10dp"
+	       android:layout_marginBottom="10dp"
+	       android:layout_marginRight="3dp"
+	       android:text="@string/today_calories"
+	       android:textColor="#0000FF"
+	       android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+	    <TextView
+	        android:id="@+id/todayCaloriesProgress"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	      	android:layout_marginTop="10dp"
+	       	android:layout_marginBottom="10dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp" 
+	        android:textColor="#FFFFFF"
+	        android:textSize="25sp"/>
+	    
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unit_liz"
+	        android:textColor="#0000FF"
+	        android:layout_marginTop="10dp"
+	     	android:layout_marginBottom="10dp"
+	        android:layout_marginRight="3dp"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    </LinearLayout>
+
+	
+	<LinearLayout
+	   	android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:layout_gravity="center"
+	   	android:layout_marginTop="35dp"
+	   	android:paddingLeft="7dp"
+	   	android:paddingRight="7dp"
+	   	android:orientation="horizontal" >
+	    
+		<Button
+		    android:id="@+id/calorie_picker"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/calorie_picker_button" 
+		    android:textColor="#0000FF" />
+		
+	</LinearLayout>
+	
+	<LinearLayout
+	   	android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:layout_gravity="center"
+	   	android:layout_marginTop="35dp"
+	   	android:paddingLeft="7dp"
+	   	android:paddingRight="7dp"
+	   	android:orientation="horizontal" >
+
+		<Button
+		    android:id="@+id/button_start_BMI"
+		    style="?android:attr/buttonStyleSmall"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/button_BMI" 
+		    android:textColor="#0000FF" />
+	
+	</LinearLayout>
+
+	<Button
+	    android:id="@+id/button_clear"
+	    style="?android:attr/buttonStyleSmall"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="200dp"
+	    android:text="@string/button_clear"
+	    android:textColor="#0000FF" />
+    
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skinny Liz</string>
+    <string name="action_settings">Settings</string>
+    <string name="total_calories">Total Calories</string>
+    <string name="today_calories">Today Calories</string>
+    <string name="daily_target">Daily</string>
+    <string name="calorie_picker_button">Foooooooooooooood!</string>
+    <string name="calorie_picker_lable">Categories</string>
+    <string name="food">food nutrition</string>
+    <string name="food_nutrition_info">Nutrition</string>
+    <string name="food_nutrition_protein">Protein/g</string>
+    <string name="food_nutrition_calories">Calories/g</string>
+    <string name="food_nutrition_fat">Fat/g</string>
+    <string name="food_nutrition_carbohydrate">Carb/g</string>
+    <string name="food_nutrition_measure">Per (g)</string>
+    <string name="button_select">Ya!</string>
+    <string name="button_cancel">Woo</string>
+    <string name="button_BMI_calc">NO Click!</string><string name="button_clear">Clear</string><string name="food_nutrition_quantity">Quantity X</string>
+    <string name="unit_liz">J</string>
+    <string name="BMI_age">Age</string>
+    <string name="BMI_height">Height/cm</string>
+    <string name="BMI_weight">Weight/kg</string>
+    <string name="BMI">BMI</string>
+    <string name="button_BMI">BMI Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="daily_calories_target">2000</string>
+    
+    
+
+</resources>

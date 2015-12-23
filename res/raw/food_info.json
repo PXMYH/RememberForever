@@ -1,0 +1,194 @@
+[
+	{
+		"name" : "apple",
+		"nutritionLabel" : {
+			"measure"  : "154",
+			"protein"  : "0",
+			"calories" : "80",
+			"fat"	   : "0",
+			"carb"     : "22",
+			"sugars"   : "16"
+		}
+	},
+
+	{
+		"name" : "apricot",
+		"nutritionLabel" : {
+			"measure"  : "35",
+			"protein"  : "0",
+			"calories" : "17",
+			"fat"      : "0",
+			"carb"     : "4",
+			"sugars"   : "3"
+		}     
+	},
+	
+	{
+		"name" : "avocado",
+		"nutritionLabel" : {
+			"measure"  : "150",
+			"protein"  : "3",
+			"calories" : "240",
+			"fat"      : "22",
+			"carb"     : "13",
+			"sugars"   : "1" 		
+		}
+	},
+	
+	{
+		"name" : "azukibean",
+		"nutritionLabel" : {
+			"measure"  : "100",
+			"protein"  : "20",
+			"calories" : "329",
+			"fat"      : "1",
+			"carb"     : "63",
+			"sugars"   : "0" 		
+		}
+	},
+	
+	{
+		"name" : "banana",
+		"nutritionLabel" : {
+			"measure"  : "54",
+			"protein"  : "1",
+			"calories" : "48",
+			"fat"      : "0",
+			"carb"     : "13",
+			"sugars"   : "7" 		
+		}
+	},
+
+	{
+		"name" : "blueberry",
+		"nutritionLabel" : {
+			"measure"  : "145",
+			"protein"  : "1",
+			"calories" : "70",
+			"fat"      : "0",
+			"carb"     : "16", 
+			"sugars"   : "10" 		
+		}
+	},	
+
+	{
+		"name" : "egg",
+		"nutritionLabel" : {
+			"measure"  : "55",
+			"protein"  : "6",
+			"calories" : "70",
+			"fat"      : "5",
+			"carb"     : "1", 
+			"sugars"   : "0" 		
+		}
+	},	
+
+	{
+		"name" : "eggplant",
+		"nutritionLabel" : {
+			"measure"  : "142",
+			"protein"  : "4",
+			"calories" : "150",
+			"fat"      : "9",
+			"carb"     : "13", 
+			"sugars"   : "4" 		
+		}
+	},	
+	
+	{
+		"name" : "grape",
+		"nutritionLabel" : {
+			"measure"  : "126",
+			"protein"  : "0",
+			"calories" : "90",
+			"fat"      : "0",
+			"carb"     : "23", 
+			"sugars"   : "20" 		
+		}
+	},	
+
+	{
+		"name" : "kitkat",
+		"nutritionLabel" : {
+			"measure"  : "45",
+			"protein"  : "3",
+			"calories" : "228",
+			"fat"      : "12",
+			"carb"     : "28", 
+			"sugars"   : "11" 		
+		}
+	},
+	
+	{
+		"name" : "milk",
+		"nutritionLabel" : {
+			"measure"  : "324",
+			"protein"  : "8",
+			"calories" : "120",
+			"fat"      : "5",
+			"carb"     : "12", 
+			"sugars"   : "11" 		
+		}
+	},
+	
+	{
+		"name" : "orange",
+		"nutritionLabel" : {
+			"measure"  : "154",
+			"protein"  : "1",
+			"calories" : "80",
+			"fat"      : "0",
+			"carb"     : "19", 
+			"sugars"   : "14" 		
+		}
+	},
+	
+	{
+		"name" : "peach",
+		"nutritionLabel" : {
+			"measure"  : "147",
+			"protein"  : "1",
+			"calories" : "60",
+			"fat"      : "1",
+			"carb"     : "15", 
+			"sugars"   : "13" 		
+		}
+	},
+
+	{
+		"name" : "pineapple",
+		"nutritionLabel" : {
+			"measure"  : "155",
+			"protein"  : "1",
+			"calories" : "78",
+			"fat"      : "0",
+			"carb"     : "20", 
+			"sugars"   : "15" 		
+		}
+	},
+	
+	{
+		"name" : "strawberry",
+		"nutritionLabel" : {
+			"measure"  : "144",
+			"protein"  : "1",
+			"calories" : "46",
+			"fat"      : "0",
+			"carb"     : "11", 
+			"sugars"   : "7" 		
+		}
+	},
+
+	{
+		"name" : "watermelon",
+		"nutritionLabel" : {
+			"measure"  : "280",
+			"protein"  : "1",
+			"calories" : "80",
+			"fat"      : "0",
+			"carb"     : "27",
+			"sugars"   : "25" 		
+		}
+	}
+]
+
